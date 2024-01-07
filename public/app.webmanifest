@@ -1,0 +1,13 @@
+{
+    "name": "Web Push Example",
+    "short_name": "Web Push Example",
+    "start_url": "/",
+    "display": "standalone",
+    "icons": [
+        {
+            "src": "/android-chrome-512x512.png",
+            "type": "image/png",
+            "sizes": "512x512"
+        }
+    ]
+}
